@@ -30,7 +30,7 @@ Procédure à suivre pour lancer le scirpt python:
 
 Créer la table intervention à partir de la requête SQL présente dans le fichier rdv_table:
 
-Dès lors que la table est créé et que toutes les librairies python sont importé sur votre poste, exécutez la commande:
+Dès lors que la table est créé et que toutes les librairies python sont importé sur votre poste, exécutez la commande dans une invite de commande ouverte dans le fichier:
     - python main.py
 
 Le programme principal s'exécutera et un historique des actions apparaîtra dans votre invite de commande.
