@@ -1,6 +1,6 @@
 # Importation interventions
 
-#- Projet sous Python & PostgreSQl-#
+#- Projet sous Python & PostgreSQL-#
 
 - Outils nécessaire -
 Voici les outils dont vous avez besoin pour lancer le script
