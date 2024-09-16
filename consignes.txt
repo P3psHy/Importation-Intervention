@@ -1,0 +1,14 @@
+Language libre et utilisation de librairies autorisée.
+
+
+Dans le cadre de la mise en place de tableaux de suivi, nous voulons créer une table PostgreSQL pouvant être exploitée par PowerBI.
+Les données peuplant la table proviennent de fichiers Excel fournis quotidiennement par le client.
+Ceux-ci sont des extractions de données issues du système d'information du client. Ces fichiers sont quotidiennement
+déposés manuellement dans un dossier donné (par exemple : D:/extractions_client) 
+
+Le zip contient 3 fichiers Excel de 3 jours différents, ainsi que le fichier sql utilisé pour créer la table actuellement en place.
+
+
+Proposez un script afin de mettre quotidiennement à jour les données dans la table de façon automatique.
+Justifiez également le choix du langage et des librairies utilisées, et n'hésitez pas à être critique si certains points
+dans la demande initiale ne sont pas clairs. La table postgresql peut également être modifiée si besoin.
